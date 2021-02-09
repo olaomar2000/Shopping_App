@@ -1,6 +1,6 @@
 # form_vaidation_assigment
 
-## A new Flutter application with image slider ,form validation..
+## A new Flutter application with image slider ,form validation.
 
 
 
