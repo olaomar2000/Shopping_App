@@ -1,6 +1,6 @@
 # Shopping App
 
-## A new Flutter application with image slider ,form validation.
+## A new Flutter application using image slider ,form validation.
 
 
 
